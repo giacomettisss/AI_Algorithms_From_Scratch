@@ -1,11 +1,11 @@
 # machine_learning
  
-- [x] KNN (K-Nearest Neighbors)
-- [] Linear Regression
-- [] Logistic Regression
-- [] Random Forest 
-- [] Naive Bayes
-- [] PCA
-- [] Perceptron
-- [] SVM
-- [] KMeans
+- [x] K-Nearest Neighbors (KNN)
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] Random Forest 
+- [ ] Naive Bayes
+- [ ] Principal Component Analysis (PCA)
+- [ ] Perceptron
+- [ ] Support vector machines (SVM)
+- [ ] KMeans
