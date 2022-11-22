@@ -5,6 +5,7 @@ I'll be building most used algorithms of machine learning from scratch and using
 **Here they are with completed status:**
 - [x] K-Nearest Neighbors (KNN)
 - [x] Linear Regression
+- [x] Linear Regression with MMQ
 - [ ] Logistic Regression
 - [ ] Random Forest 
 - [ ] Naive Bayes
