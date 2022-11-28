@@ -5,12 +5,12 @@ I'll be building most used algorithms of machine learning from scratch and using
 **Here they are with completed status:**
 - [x] K-Nearest Neighbors (KNN)
 - [x] Linear Regression
-- [x] Linear Regression with MMQ
+- [x] Linear Regression with Least Multiple Squares (MMQ)
 - [x] Logistic Regression
 - [x] Decision Trees
 - [ ] Random Forest 
 - [ ] Naive Bayes
 - [ ] Principal Component Analysis (PCA)
 - [ ] Perceptron
-- [ ] Support vector machines (SVM)
+- [ ] Support Vector Machines (SVM)
 - [ ] KMeans
