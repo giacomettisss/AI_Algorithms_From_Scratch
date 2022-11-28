@@ -14,3 +14,6 @@ I'll be building most used algorithms of machine learning from scratch and using
 - [ ] Perceptron
 - [ ] Support Vector Machines (SVM)
 - [ ] KMeans
+
+
+_This is a study from here:  [youtube.com\/@AssemblyAI](https://www.youtube.com/@AssemblyAI)_ 
